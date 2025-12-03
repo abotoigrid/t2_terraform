@@ -92,3 +92,4 @@ plan.json
 
 # Ignore any infracost files
 .infracost/
+**/.terraform/*
